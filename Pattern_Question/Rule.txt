@@ -1,0 +1,2 @@
+1. See how many rows and columns a pattern needs
+2. What is needed to print or output is also needed to be learned 
